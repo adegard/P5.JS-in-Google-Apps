@@ -18,3 +18,5 @@ function include(filename) {
 }
 
 // after installing the files, deploy the apps script:
+
+//try it: https://script.google.com/macros/s/AKfycbykJTogGHTxGo99uP8EYjzyyvaQie1QwZGPAQ-AWt44HeZ5Goik5eKOsQ6SVrWAMN2Z/exec
