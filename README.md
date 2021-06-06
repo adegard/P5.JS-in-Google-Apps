@@ -4,8 +4,10 @@ P5.js in Google Apps test
 ![image](https://user-images.githubusercontent.com/23522577/120076053-17b77280-c0a4-11eb-8a26-9a373101425d.png)
 </br>
 <a href="https://script.google.com/macros/s/AKfycbykJTogGHTxGo99uP8EYjzyyvaQie1QwZGPAQ-AWt44HeZ5Goik5eKOsQ6SVrWAMN2Z/exec" target="_blank">Try it</a>
+</br>
+<a href="https://docs.google.com/spreadsheets/d/1mIK-WLVFx-6aNAQbl41_2C_lL4lmCShZTsQXVeDBsLU/edit?usp=sharing" target="_blank">Open in Gsheet</a>
 
-
+</br>
 First you must create a new file and put all your HTML code with the javascript you want to use.
 
 demo.html
